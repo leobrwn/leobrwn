@@ -6,3 +6,4 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Mullvad VPN](https://img.shields.io/badge/Mullvad_VPN-000000?style=for-the-badge&logo=mullvad&logoColor=white)
+![Geode](https://img.shields.io/badge/Geode-9B59B6?style=for-the-badge&logo=geode&logoColor=white)
